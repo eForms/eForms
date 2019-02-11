@@ -23,6 +23,4 @@ __These technical items are also available for feedback__. These files are relev
 
 **Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention from the explanatory note. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
 
-If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu
-
-These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives_en. 
+If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu. These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives_en. 
