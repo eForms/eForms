@@ -5,7 +5,7 @@ Welcome to the public feedback on eForms, the update to the European Union's pro
 
 This initiative is a major update to the public procurement standard forms. The forms define how EU countries publish data on individual procurement contracts. This update will make it easier for companies to find contracts, increase transparency towards citizens and improve governments’ ability to make data-driven decisions on spending. 
 
-The following items are available for feedback:
+__These are the main items for feedback__:
 
 - [Explanatory note](https://github.com/eForms/eForms/blob/master/1_eForms_feedback_explanatory_note.docx). Annex I explains in detail how to use GitHub. 
 
@@ -15,14 +15,13 @@ The following items are available for feedback:
 
 - [Table 2 of the draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/blob/master/4_eForms_feedback_Annex_Table_2_spreadsheet_draft.xlsx) in easier-to-read spreadsheet format. This file was the subject of the previous consultations. We recommend reading the spreadsheet version.  
 
-Additionally, you can also give feedback on certain files that are relevant for technical implementation. 
-(Disclaimer: this requires a good knowledge of the files above and is likely of interest only for advanced readers). 
+Additionally, __these technical items are also available for feedback__. These files are relevant for technical implementation, but  require a good knowledge of the other eForms files. 
 
 - [Draft codelists](https://github.com/eForms/eForms/blob/master/5_eForms_feedback_codelists_draft.xlsx), i.e. the lists of codes that must be used as replies to certain fields established in the Annex.
 
 - Preliminary draft business rules ( *-to be published in the near future*), i.e. the lists of rules applied to notices to ensure their quality, consistency, etc.
 
-**Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention explained in the introductory document. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
+**Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention from the explanatory note. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
 
 If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu
 
