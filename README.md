@@ -1,7 +1,8 @@
-# eForms consultation
+# eForms public feedback 
+Updated: 2019-02-11
 Welcome to the public feedback on eForms, the update to the European Union's procurement standard forms.
 
-This initiative is a major update to the public procurement standard forms. The forms define how EU countries publish data on individual procurement contracts. This update will make it easier for companies to find contracts, increase transparency towards citizens and improve governments’ ability to make data-driven decisions on spending. The initiative will replace [Implementing Regulation 2015/1986](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1986). These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives_en.  
+This initiative is a major update to the public procurement standard forms. The forms define how EU countries publish data on individual procurement contracts. This update will make it easier for companies to find contracts, increase transparency towards citizens and improve governments’ ability to make data-driven decisions on spending. 
 
 The following items are available for feedback:
 
@@ -23,3 +24,5 @@ Additionally, you can also give feedback on certain files that are relevant for 
 **Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention explained in the introductory document. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
 
 If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu
+
+These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives_en. 
