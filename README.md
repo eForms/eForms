@@ -15,7 +15,7 @@ __These are the main items for feedback__:
 
 - [Table 2 of the draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/blob/master/4_eForms_feedback_Annex_Table_2_spreadsheet_draft.xlsx) in easier-to-read spreadsheet format. This file was the subject of the previous consultations. We recommend reading the spreadsheet version.  
 
-Additionally, __these technical items are also available for feedback__. These files are relevant for technical implementation, but  require a good knowledge of the other eForms files. 
+__These technical items are also available for feedback__. These files are relevant for technical implementation, but  require a good knowledge of the other eForms files. 
 
 - [Draft codelists](https://github.com/eForms/eForms/blob/master/5_eForms_feedback_codelists_draft.xlsx), i.e. the lists of codes that must be used as replies to certain fields established in the Annex.
 
