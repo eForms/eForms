@@ -1,5 +1,5 @@
 # eForms public feedback 
-Updated: 2019-02-11
+_Updated on 2019-02-11 with the exception of business rules, which were uploaded on 2019-02-19._
 
 Welcome to the public feedback on eForms, the update to the European Union's procurement standard forms.
 
@@ -19,7 +19,8 @@ __These technical items are also available for feedback__. These files are relev
 
 - [Draft codelists](https://github.com/eForms/eForms/blob/master/5_eForms_feedback_codelists_draft.xlsx), i.e. the lists of codes that must be used as replies to certain fields established in the Annex.
 
-- Preliminary draft business rules ( *-to be published in the near future*), i.e. the lists of rules applied to notices to ensure their quality, consistency, etc.
+- [Preliminary draft business rules](https://github.com/eForms/eForms/blob/master/6_eForms_feedback_rules_preliminary_draft.xlsx), i.e. the lists of rules applied to notices to ensure their quality, consistency, etc. 
+**Disclaimer:** This is an early, unofficial draft. 
 
 **Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention from the explanatory note. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
 
