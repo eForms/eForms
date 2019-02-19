@@ -7,21 +7,21 @@ This initiative is a major update to the public procurement standard forms. The 
 
 __These are the main items for feedback__:
 
-- [Explanatory note](https://github.com/eForms/eForms/blob/master/1_eForms_feedback_explanatory_note.docx). Annex I explains in detail how to use GitHub. 
+- [Explanatory note](https://github.com/eForms/eForms/raw/master/1_eForms_feedback_explanatory_note.docx). Annex I explains in detail how to use GitHub. 
 
-- [Draft Implementing Regulation](https://github.com/eForms/eForms/blob/master/2_eForms_feedback_Regulation_draft.docx).
+- [Draft Implementing Regulation](https://github.com/eForms/eForms/raw/master/2_eForms_feedback_Regulation_draft.docx).
 
-- [Draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/blob/master/3_eForms_feedback_Annex_draft.docx). 
+- [Draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/raw/master/3_eForms_feedback_Annex_draft.docx). 
 
-- [Table 2 of the draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/blob/master/4_eForms_feedback_Annex_Table_2_spreadsheet_draft.xlsx) in easier-to-read spreadsheet format. This file was the subject of the previous consultations. We recommend reading the spreadsheet version.  
+- [Table 2 of the draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/raw/master/4_eForms_feedback_Annex_Table_2_spreadsheet_draft.xlsx) in easier-to-read spreadsheet format. This file was the subject of the previous consultations. We recommend reading the spreadsheet version.  
 
 __These technical items are also available for feedback__. These files are relevant for technical implementation, but  require a good knowledge of the other eForms files. 
 
-- [Draft codelists](https://github.com/eForms/eForms/blob/master/5_eForms_feedback_codelists_draft.xlsx), i.e. the lists of codes that must be used as replies to certain fields established in the Annex.
+- [Draft codelists](https://github.com/eForms/eForms/raw/master/5_eForms_feedback_codelists_draft.xlsx), i.e. the lists of codes that must be used as replies to certain fields established in the Annex.
 
-- [Preliminary draft business rules](https://github.com/eForms/eForms/blob/master/6_eForms_feedback_rules_preliminary_draft.xlsx), i.e. the lists of rules applied to notices to ensure their quality, consistency, etc. 
+- [Preliminary draft business rules](https://github.com/eForms/eForms/raw/master/6_eForms_feedback_rules_preliminary_draft.xlsx), i.e. the lists of rules applied to notices to ensure their quality, consistency, etc. 
 **Disclaimer:** This is an early, unofficial draft. 
 
 **Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention from the explanatory note. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
 
-If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu. These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2019-797630_en. 
+If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu. These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2019-797630_en.
