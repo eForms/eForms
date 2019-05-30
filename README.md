@@ -1,4 +1,4 @@
-# eForms public feedback 
+# eForms 
 _Updated on 2019-05-30._
 
 Welcome to the public feedback on eForms, the update to the European Union's procurement standard forms.
