@@ -1,27 +1,12 @@
 # eForms public feedback 
-_Updated on 2019-02-11 with the exception of business rules, which were uploaded on 2019-02-19._
+_Updated on 2019-05-30._
 
 Welcome to the public feedback on eForms, the update to the European Union's procurement standard forms.
 
 This initiative is a major update to the public procurement standard forms. The forms define how EU countries publish data on individual procurement contracts. This update will make it easier for companies to find contracts, increase transparency towards citizens and improve governments’ ability to make data-driven decisions on spending. 
 
-__These are the main items for feedback__:
+Over the last three years, this initiative has undergone several rounds of public feedback (beyond Github, more information is [here](https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2019-797630_en) and [here](http://ec.europa.eu/growth/content/targeted-consultation-eforms-next-generation-public-procurement-standard-forms-0_en)). On 27th May 2019, the European Commission has asked the Advisory Committee on Public Contracts, which is the official body of EU countries' representatives, for its official opinion on the draft act. All the documents, as well as the propoal, are available in the **[relevant page of the Commission's Comitology Register](http://ec.europa.eu/transparency/regcomitology/index.cfm?do=search.dossierdetail&Dos_ID=17796&dos_year=2019&dc_id=)**. EU countries must send their opinions by 29th July 2019.
 
-- [Explanatory note](https://github.com/eForms/eForms/raw/master/1_eForms_feedback_explanatory_note.docx). Annex I explains in detail how to use GitHub. 
+GitHub [issues page](https://github.com/eForms/eForms/issues) is ideal for submitting questions on or comments to the proposal. While all issues will be responded to, **comments will be taken into account only if they are referred to in at least one of the official opinions** given by the representatives in the Advisory Committee on Public Contracts.
 
-- [Draft Implementing Regulation](https://github.com/eForms/eForms/raw/master/2_eForms_feedback_Regulation_draft.docx).
-
-- [Draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/raw/master/3_eForms_feedback_Annex_draft.docx). 
-
-- [Table 2 of the draft Annex to the Implementing Regulation](https://github.com/eForms/eForms/raw/master/4_eForms_feedback_Annex_Table_2_spreadsheet_draft.xlsx) in easier-to-read spreadsheet format. This file was the subject of the previous consultations. We recommend reading the spreadsheet version.  
-
-__These technical items are also available for feedback__. These files are relevant for technical implementation, but  require a good knowledge of the other eForms files. 
-
-- [Draft codelists](https://github.com/eForms/eForms/raw/master/5_eForms_feedback_codelists_draft.xlsx), i.e. the lists of codes that must be used as replies to certain fields established in the Annex.
-
-- [Preliminary draft business rules](https://github.com/eForms/eForms/raw/master/6_eForms_feedback_rules_preliminary_draft.xlsx), i.e. the lists of rules applied to notices to ensure their quality, consistency, etc. 
-**Disclaimer:** This is an early, unofficial draft. 
-
-**Reminder:** Comments to the spreadsheet should be submitted in the GitHub [issues page](https://github.com/eForms/eForms/issues) by clicking on "New issue". When opening a new issue, please follow the naming convention from the explanatory note. Also, don't forget to check whether your idea isn't already being discussed in another issue. 
-
-If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu. These files are officially hosted at https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2019-797630_en.
+If you have any questions or suggestions, please contact us at GROW-G4@ec.europa.eu.
