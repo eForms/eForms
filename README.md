@@ -1,7 +1,7 @@
 # eForms 
 _Updated on 2019-05-30._
 
-Welcome to the public feedback on eForms, the update to the European Union's procurement standard forms.
+Welcome to eForms, the update to the European Union's procurement standard forms.
 
 This initiative is a major update to the public procurement standard forms. The forms define how EU countries publish data on individual procurement contracts. This update will make it easier for companies to find contracts, increase transparency towards citizens and improve governments’ ability to make data-driven decisions on spending. 
 
